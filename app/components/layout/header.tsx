@@ -190,12 +190,12 @@ export function Header() {
           <DesktopMenu />
         </div>
         {/* Right: icons */}
-        <div className="z-1 flex items-center justify-end gap-1">
+        {/* <div className="z-1 flex items-center justify-end gap-1">
           {showHeaderCountrySelector && <HeaderCountrySelector />}
           <PredictiveSearchButton />
           <ShopifyAccountButton />
           <CartDrawer />
-        </div>
+        </div> */}
       </div>
     </header>
   );

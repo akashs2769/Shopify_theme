@@ -59,7 +59,7 @@ const SHIPPED_DEFAULT_FOR_SETTING: Record<string, string> = {
   newsletterButtonText: "Subscribe",
   copyright: "© 2024 Weaverse. All rights reserved.",
   topbarText:
-    "<p>Free shipping on orders over $50</p><p>New arrivals dropping every week</p><p>30-day hassle-free returns</p><p>Sign up and get 10% off your first order</p>",
+    "<p>COD Available Across India</p><p>Easy Returns</p><p>Quality Assured</p><p>Trusted Shopping</p>",
 };
 
 /**

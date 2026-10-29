@@ -59,22 +59,22 @@ export let schema = createSchema({
       {
         type: "mp--highlight-item",
         icon: "package",
-        text: "Free shipping on orders over $50",
+        text: "COD Available Across India",
       },
       {
         type: "mp--highlight-item",
         icon: "shield-check",
-        text: "2-year warranty included",
+        text: "Easy Returns",
       },
       {
         type: "mp--highlight-item",
         icon: "clock",
-        text: "Easy returns within 30 days",
+        text: "Quality Assured",
       },
       {
         type: "mp--highlight-item",
         icon: "leaf",
-        text: "Made with sustainable materials",
+        text: "Trusted Shopping",
       },
     ],
   },

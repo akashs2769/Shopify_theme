@@ -193,7 +193,7 @@ export const schema = createSchema({
           type: "text",
           name: "message",
           label: "Message",
-          defaultValue: "Free shipping on orders over $50.",
+          defaultValue: "COD Available Across India.",
         },
       ],
     },

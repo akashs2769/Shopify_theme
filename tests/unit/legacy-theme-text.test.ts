@@ -166,7 +166,7 @@ test("blank announcement markup reserves no height", () => {
 
 test("a cleared legacy announcement beats the bundled default", () => {
   // Without the presence fix this fell through to the theme's demo copy and
-  // republished "Free shipping on orders over $50" on a live storefront.
+  // republished "COD Available Across India" on a live storefront.
   expect(announcementFor({ topbarText: "" })).toBe("");
   expect(hasVisibleAnnouncement(announcementFor({ topbarText: "" }))).toBe(
     false,
